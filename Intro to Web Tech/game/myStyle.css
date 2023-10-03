@@ -1,0 +1,35 @@
+h1 { 
+    color: #FF0000;
+    font-family: sans-serif;
+    background-color:#1C1C1C;
+    border-bottom: 3px solid #551515
+    }
+h2{color:blueviolet}
+blockquote { 
+    background-color: lightgray;
+    padding: 1rem;
+    width: 50%;
+    }
+body{background-color:#1C1C1C;
+     font-family: Arial, sans-serif;
+}
+main{font-family: sans-serif;
+     border: 1px solid black;
+     background-color: white;
+     margin: 0 auto;
+     width: 80%;
+     padding: 0 0.5em;}
+header{font-family: 'Roboto', sans-serif;}
+img.rightSide{float: right;}
+img.side {float:right; margin: 0 12px;}
+
+footer.source{background-color: #1C1C1C;
+              margin: 0 auto;
+              width: 80%;
+              padding: 1em 2em;}
+a{color:#3785DE;}
+#TopImage{margin: 0 auto;
+          width: 80%;}
+/*
+*{border: 1px solid gray;}
+*/
